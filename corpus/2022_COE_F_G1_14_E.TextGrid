@@ -1,0 +1,330 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 279.2
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0.0
+		xmax = 279.2
+		intervals: size = 79
+			intervals [1]:
+				xmin = 0.0
+				xmax = 11.61767
+				text = ""
+			intervals [2]:
+				xmin = 11.61767
+				xmax = 12.43935
+				text = "e*omɨ̃"
+			intervals [3]:
+				xmin = 12.43935
+				xmax = 24.71038
+				text = ""
+			intervals [4]:
+				xmin = 24.71038
+				xmax = 25.49932
+				text = "e*omɨ̃"
+			intervals [5]:
+				xmin = 25.49932
+				xmax = 31.82403
+				text = ""
+			intervals [6]:
+				xmin = 31.82403
+				xmax = 32.71577
+				text = "e*omɨ"
+			intervals [7]:
+				xmin = 32.71577
+				xmax = 43.06695
+				text = ""
+			intervals [8]:
+				xmin = 43.06695
+				xmax = 43.75179
+				text = "aˀco"
+			intervals [9]:
+				xmin = 43.75179
+				xmax = 47.95245
+				text = ""
+			intervals [10]:
+				xmin = 47.95245
+				xmax = 48.66501
+				text = "aco"
+			intervals [11]:
+				xmin = 48.66501
+				xmax = 52.38241
+				text = ""
+			intervals [12]:
+				xmin = 52.38241
+				xmax = 53.0507
+				text = "aˀco"
+			intervals [13]:
+				xmin = 53.0507
+				xmax = 64.24503
+				text = ""
+			intervals [14]:
+				xmin = 64.24503
+				xmax = 65.07073
+				text = "oˀomɨ̃"
+			intervals [15]:
+				xmin = 65.07073
+				xmax = 69.17836
+				text = ""
+			intervals [16]:
+				xmin = 69.17836
+				xmax = 69.94622
+				text = "oˀomɨ̃"
+			intervals [17]:
+				xmin = 69.94622
+				xmax = 73.94253
+				text = ""
+			intervals [18]:
+				xmin = 73.94253
+				xmax = 74.71578
+				text = "oˀomɨ̃"
+			intervals [19]:
+				xmin = 74.71578
+				xmax = 84.03712
+				text = ""
+			intervals [20]:
+				xmin = 84.03712
+				xmax = 85.00749
+				text = "mũkʰamɨ̃"
+			intervals [21]:
+				xmin = 85.00749
+				xmax = 88.83619
+				text = ""
+			intervals [22]:
+				xmin = 88.83619
+				xmax = 89.7244
+				text = "mukʰamɨ̃"
+			intervals [23]:
+				xmin = 89.7244
+				xmax = 93.9443
+				text = ""
+			intervals [24]:
+				xmin = 93.9443
+				xmax = 94.77315
+				text = "mukʰamɨ̃"
+			intervals [25]:
+				xmin = 94.77315
+				xmax = 102.3539
+				text = ""
+			intervals [26]:
+				xmin = 102.3539
+				xmax = 103.21668
+				text = "kʰõsa"
+			intervals [27]:
+				xmin = 103.21668
+				xmax = 107.17298
+				text = ""
+			intervals [28]:
+				xmin = 107.17298
+				xmax = 107.9857
+				text = "kʰõsa"
+			intervals [29]:
+				xmin = 107.9857
+				xmax = 111.74496
+				text = ""
+			intervals [30]:
+				xmin = 111.74496
+				xmax = 112.51694
+				text = "kʰõsa"
+			intervals [31]:
+				xmin = 112.51694
+				xmax = 118.96344
+				text = ""
+			intervals [32]:
+				xmin = 118.96344
+				xmax = 119.75618
+				text = "ũkʰu"
+			intervals [33]:
+				xmin = 119.75618
+				xmax = 123.54501
+				text = ""
+			intervals [34]:
+				xmin = 123.54501
+				xmax = 124.25183
+				text = "ũkʰu"
+			intervals [35]:
+				xmin = 124.25183
+				xmax = 128.31853
+				text = ""
+			intervals [36]:
+				xmin = 128.31853
+				xmax = 128.96809
+				text = "ũkʰu"
+			intervals [37]:
+				xmin = 128.96809
+				xmax = 147.55936
+				text = ""
+			intervals [38]:
+				xmin = 147.55936
+				xmax = 148.51049
+				text = "hoˀhomɨ̃"
+			intervals [39]:
+				xmin = 148.51049
+				xmax = 153.42242
+				text = ""
+			intervals [40]:
+				xmin = 153.42242
+				xmax = 154.35065
+				text = "hoˀhomɨ̃"
+			intervals [41]:
+				xmin = 154.35065
+				xmax = 158.26885
+				text = ""
+			intervals [42]:
+				xmin = 158.26885
+				xmax = 159.16214
+				text = "hoˀhomɨ"
+			intervals [43]:
+				xmin = 159.16214
+				xmax = 166.581
+				text = ""
+			intervals [44]:
+				xmin = 166.581
+				xmax = 167.57488
+				text = "tʰo*oo"
+			intervals [45]:
+				xmin = 167.57488
+				xmax = 171.60499
+				text = ""
+			intervals [46]:
+				xmin = 171.60499
+				xmax = 172.44738
+				text = "tʰo*oo"
+			intervals [47]:
+				xmin = 172.44738
+				xmax = 176.14788
+				text = ""
+			intervals [48]:
+				xmin = 176.14788
+				xmax = 176.94124
+				text = "tʰo*oo"
+			intervals [49]:
+				xmin = 176.94124
+				xmax = 183.43832
+				text = ""
+			intervals [50]:
+				xmin = 183.43832
+				xmax = 184.32721
+				text = "hɨ*epɨ"
+			intervals [51]:
+				xmin = 184.32721
+				xmax = 188.17449
+				text = ""
+			intervals [52]:
+				xmin = 188.17449
+				xmax = 188.94615
+				text = "hɨ*epɨ"
+			intervals [53]:
+				xmin = 188.94615
+				xmax = 194.10219
+				text = ""
+			intervals [54]:
+				xmin = 194.10219
+				xmax = 195.03717
+				text = "hɨ*epɨ"
+			intervals [55]:
+				xmin = 195.03717
+				xmax = 201.87077
+				text = ""
+			intervals [56]:
+				xmin = 201.87077
+				xmax = 202.61619
+				text = "ce*eo"
+			intervals [57]:
+				xmin = 202.61619
+				xmax = 206.4547
+				text = ""
+			intervals [58]:
+				xmin = 206.4547
+				xmax = 207.19587
+				text = "ce*eo"
+			intervals [59]:
+				xmin = 207.19587
+				xmax = 211.08595
+				text = ""
+			intervals [60]:
+				xmin = 211.08595
+				xmax = 211.82119
+				text = "ce*eo"
+			intervals [61]:
+				xmin = 211.82119
+				xmax = 221.07278
+				text = ""
+			intervals [62]:
+				xmin = 221.07278
+				xmax = 221.99748
+				text = "ɲaɦɨ̃*ɨ̃"
+			intervals [63]:
+				xmin = 221.99748
+				xmax = 225.95659
+				text = ""
+			intervals [64]:
+				xmin = 225.95659
+				xmax = 226.79073
+				text = "ɲaɦɨ̃*ɨ̃"
+			intervals [65]:
+				xmin = 226.79073
+				xmax = 230.77217
+				text = ""
+			intervals [66]:
+				xmin = 230.77217
+				xmax = 231.6636
+				text = "ɲaɦɨ̃*ɨ̃"
+			intervals [67]:
+				xmin = 231.6636
+				xmax = 243.82337
+				text = ""
+			intervals [68]:
+				xmin = 243.82337
+				xmax = 244.48679
+				text = "aco"
+			intervals [69]:
+				xmin = 244.48679
+				xmax = 248.60458
+				text = ""
+			intervals [70]:
+				xmin = 248.60458
+				xmax = 249.18255
+				text = "aco"
+			intervals [71]:
+				xmin = 249.18255
+				xmax = 253.40894
+				text = ""
+			intervals [72]:
+				xmin = 253.40894
+				xmax = 254.01756
+				text = "aco"
+			intervals [73]:
+				xmin = 254.01756
+				xmax = 264.55602
+				text = ""
+			intervals [74]:
+				xmin = 264.55602
+				xmax = 265.52264
+				text = "ca*o"
+			intervals [75]:
+				xmin = 265.52264
+				xmax = 269.82047
+				text = ""
+			intervals [76]:
+				xmin = 269.82047
+				xmax = 270.70207
+				text = "ca*o"
+			intervals [77]:
+				xmin = 270.70207
+				xmax = 275.00897
+				text = ""
+			intervals [78]:
+				xmin = 275.00897
+				xmax = 275.81908
+				text = "ca*o"
+			intervals [79]:
+				xmin = 275.81908
+				xmax = 279.2
+				text = ""
