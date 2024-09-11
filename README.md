@@ -27,4 +27,11 @@ Once the files are in place, you can run the script from the main folder by exec
 ```bash
 ./run.sh # for linux/mac system, if you use a Windows, you might need to change the script, but the logic remains the same
 ```
+
+or 
+```python
+python run.py # useful for both windows and Unix-like system
+```
+
+
 After the alignment is completed, you will find the results in the `output/` folder.

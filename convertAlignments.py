@@ -17,7 +17,7 @@ print("Will read the TextGrids and change the generated transcriptions from the 
 print("Useful debugging info for conversion is printed into the convertAlignments.message.log")
 # The printing code was taken from https://stackoverflow.com/a/2513511
 old_stdout = sys.stdout
-log_file = open("convertAlignments.message.log", "w")
+log_file = open("convertAlignments.message.log", "w", encoding='utf-8')
 sys.stdout = log_file
 
 
